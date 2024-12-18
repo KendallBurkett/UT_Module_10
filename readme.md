@@ -52,15 +52,15 @@ The project includes the following files:
 ## Installation
 
 1. **Prerequisites**: 
-- Python 3.x
-- SQLite
-- Flask
-- Jupyter Notebook
+    - Python 3.x
+    - SQLite
+    - Flask
+    - Jupyter Notebook
 
 2. **Setup**:
-- Clone this repository or download the project files.
+    - Clone this repository or download the project files.
      
-- Install dependencies (if needed):
+    - Install dependencies (if needed):
 ```bash
      pip install -r requirements.txt
 ```
@@ -71,9 +71,9 @@ The project includes the following files:
 ## Key Insights:
 
 1.	Precipitation Trends:
-- Analysis shows seasonal precipitation patterns in Hawaii.
+   - Analysis shows seasonal precipitation patterns in Hawaii.
 2.	Temperature Observations:
-- Temperature observations indicate consistent warmth, with peak observations in the most active weather station.
+   - Temperature observations indicate consistent warmth, with peak observations in the most active weather station.
 
 Example Outputs:
 - Visualization: Line charts for precipitation trends over time.
