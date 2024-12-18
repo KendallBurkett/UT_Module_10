@@ -71,9 +71,9 @@ The project includes the following files:
 ## Key Insights:
 
 1.	Precipitation Trends:
-   - Analysis shows seasonal precipitation patterns in Hawaii.
+    - Analysis shows seasonal precipitation patterns in Hawaii.
 2.	Temperature Observations:
-   - Temperature observations indicate consistent warmth, with peak observations in the most active weather station.
+    - Temperature observations indicate consistent warmth, with peak observations in the most active weather station.
 
 Example Outputs:
 - Visualization: Line charts for precipitation trends over time.
