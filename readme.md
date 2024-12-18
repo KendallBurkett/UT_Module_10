@@ -68,7 +68,7 @@ The project includes the following files:
 
 ## Results 
 
-## Key Insights:
+### Key Insights:
 
 1.	Precipitation Trends:
     - Analysis shows seasonal precipitation patterns in Hawaii.
