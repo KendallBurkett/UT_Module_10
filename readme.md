@@ -1,12 +1,11 @@
-# Climate Analysis and Weather API
-
+## Climate Analysis and Weather API
+---
 ## Table of Contents
 - [Description](#description)
 - [Data Files](#data-files)
 - [Features](#features)
 - [Installation](#installation)
 - [Results](#results)
-- [Author](#author)
 
 ---
 
